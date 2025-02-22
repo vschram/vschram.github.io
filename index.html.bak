@@ -59,7 +59,7 @@
                   <span class="papertitle">Performance Prediction via Bayesian Matrix Factorisation for Multilingual Natural Language Processing Tasks</span>
                 </a>
                 <br>
-                <strong>Viktoria Schram</strong>, <a href="https://scholar.google.co.uk/citations?user=FCom398AAAAJ&hl=en">Trevor Cohn</a>, <a href="https://scholar.google.com.au/citations?user=NauI6dEAAAAJ&hl=en&oi=ao">Daniel Beck</a>
+                <strong>Viktoria Schram</strong>, <a href="https://scholar.google.com.au/citations?user=NauI6dEAAAAJ&hl=en&oi=ao">Daniel Beck</a>, <a href="https://scholar.google.co.uk/citations?user=FCom398AAAAJ&hl=en">Trevor Cohn</a>
                 <br>
                 <em>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</em>, 1790-1801, 2023
                 <p class="justify">Performance prediction for Natural Language Processing (NLP) seeks to reduce the experimental burden resulting from the myriad of different evaluation scenarios, e.g., the combination of languages used in multilingual transfer. In this work, we explore the framework of Bayesian matrix factorisation for performance prediction, as many experimental settings in NLP can be naturally represented in matrix format. Our approach outperforms the state-of-the-art in several NLP benchmarks, including machine translation and cross-lingual entity linking. Furthermore, it also avoids hyperparameter tuning and is able to provide uncertainty estimates over predictions.</p>
